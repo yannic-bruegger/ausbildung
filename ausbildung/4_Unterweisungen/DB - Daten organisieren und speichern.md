@@ -1,0 +1,3 @@
+- Die/Der Auszubildende ist selbstständig in der Lage, Tabellen und Beziehungen in einer relationalen Datenbank zu erstellen und zu verwalten.
+- Die/Der Auszubildende ist selbstständig in der Lage, Indexe und Constraints (z. B. Primärschlüssel, Fremdschlüssel) in relationalen Datenbanken zu definieren und anzuwenden.
+- Die/Der Auszubildende ist selbstständig in der Lage, Daten in einer nicht-relationalen Datenbankstruktur zu organisieren und zu speichern.

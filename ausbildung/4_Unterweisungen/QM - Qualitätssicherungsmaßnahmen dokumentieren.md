@@ -1,0 +1,2 @@
+- Die/Der Auszubildende ist selbstständig in der Lage, die durchgeführten Qualitätssicherungsmaßnahmen und deren Ergebnisse nachvollziehbar zu dokumentieren.
+- Die/Der Auszubildende ist selbstständig in der Lage, Abweichungen und Mängel zu dokumentieren und entsprechende Korrekturmaßnahmen einzuleiten.

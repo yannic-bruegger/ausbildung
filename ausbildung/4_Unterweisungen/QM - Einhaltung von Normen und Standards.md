@@ -1,0 +1,2 @@
+- Die/Der Auszubildende ist selbstständig in der Lage, relevante Normen und Standards (z. B. ISO 9001) im Qualitätssicherungsprozess zu berücksichtigen und anzuwenden.
+- Die/Der Auszubildende ist selbstständig in der Lage, sicherzustellen, dass alle Qualitätssicherungsmaßnahmen den geltenden Normen und Standards entsprechen.

@@ -1,0 +1,5 @@
+- Terminarten kennen
+- Unterschiede Ort vs Online
+- Teilnehmende definieren (mandatory, optionally)
+- Termineinladung formulieren
+- Ggf. Terminabstimmung

@@ -1,0 +1,3 @@
+- Die/Der Auszubildende ist selbstständig in der Lage, geplante Qualitätssicherungsmaßnahmen im Projektverlauf durchzuführen.
+- Die/Der Auszubildende ist selbstständig in der Lage, Prüfkriterien und -methoden anzuwenden, um die Qualität der Arbeitsergebnisse zu überprüfen.
+- 

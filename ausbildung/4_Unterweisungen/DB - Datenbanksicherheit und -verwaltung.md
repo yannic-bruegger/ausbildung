@@ -1,0 +1,3 @@
+- Die/Der Auszubildende ist selbstständig in der Lage, grundlegende Konzepte der Datenbanksicherheit (z. B. Benutzerrechte, Verschlüsselung) zu erläutern.
+- Die/Der Auszubildende ist selbstständig in der Lage, Backups und Wiederherstellungen von Datenbanken durchzuführen.
+- Die/Der Auszubildende ist selbstständig in der Lage, Monitoring- und Wartungsstrategien für Datenbanken zu implementieren.

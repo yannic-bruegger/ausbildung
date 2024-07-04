@@ -1,0 +1,3 @@
+- Die/Der Auszubildende ist selbstständig in der Lage, die verschiedenen Arten von NoSQL-Datenbanken (Dokument-, Schlüssel-Wert-, Spalten-, Graph-Datenbanken) zu beschreiben.
+- Die/Der Auszubildende ist selbstständig in der Lage, ein geeignetes NoSQL-Datenbankmodell für ein gegebenes Szenario auszuwählen und zu begründen.
+- Die/Der Auszubildende ist selbstständig in der Lage, grundlegende Operationen in einer NoSQL-Datenbank (z. B. Einfügen, Abrufen, Aktualisieren, Löschen) durchzuführen.

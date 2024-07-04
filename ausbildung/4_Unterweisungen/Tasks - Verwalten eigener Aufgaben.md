@@ -1,0 +1,5 @@
+- Erhalten/Erkennen
+- Formulieren/Erfassen
+- Bearbeiten
+- Fortschritt überprüfen
+- Kommunizieren

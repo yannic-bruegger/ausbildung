@@ -1,0 +1,2 @@
+- Die/Der Auszubildende ist selbstständig in der Lage, Qualitätsziele für ein Projekt zu definieren.
+- Die/Der Auszubildende ist selbstständig in der Lage, geeignete Qualitätssicherungsmaßnahmen für ein Projekt zu identifizieren und zu planen.
